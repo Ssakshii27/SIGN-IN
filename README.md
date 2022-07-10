@@ -7,3 +7,6 @@ Before you can start using Firebase in your web project, you need to create a Fi
 
 **Step2**
 You also need to enable Email/Password sign-in. To do this, you need to go to your Firebase Console, open authentication section, then click on the sign-in method tab and enable Email/Password sign-in method. The image below has Email/Password sign-in method enabled
+
+**Step3**
+You only have to change the firebase configuration of your firebase app to connect your project with the firebase.
